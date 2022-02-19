@@ -1,0 +1,113 @@
+The FlipDB Environment
+    Introduction83
+    Session
+    ProgrammingInDyalog
+DataColumns
+    DataColumns
+    DataType
+    DataStructure
+    ObjectArrays
+Functions
+    Functions
+    ScalarFunctions
+    AggregateFunctions
+    HybridFunctions
+    StructuralFunctions
+    OrderOfEvaluation
+Operators
+    Operators
+    EachOperator
+    AcrossOperator
+    ByOperator
+DataTables
+    DataTables
+    ModifyingDataTables
+    TableFunctions
+    DataTablesAndKeys
+PropertySpaces
+    PropertySpaces
+    PropertySpacesAndFunctions
+    PropertySpacesAndDataTables
+Expression Sets
+    Introduction
+    UserDefinedFunctions
+    OrganizingInputs
+    CaseStatements
+    StatementSets
+Databases, Tables, and Columns
+    DatabasesTablesAndColumns
+    BuildingSandP
+    Keys
+    Transactions
+Queries
+    Introduction54
+    GrabbingDataFromAnywhere
+    TheQueryObject
+    GroupedQueries
+    PercentagesAndCrossTabs
+    StatementAnalysis
+Joins
+    Joins
+    SimpleJoins
+    PartitionJoins
+    EnclosedJoins
+    TimeSeriesJoins
+    GeneralJoins
+    SelfJoins
+    MultiTableJoins
+Reporting
+    ReportingGUI
+    DataSource
+    TextObject
+Importing
+    Importing
+    ImportingStepByStep
+    CSVFiles
+    FixedWidthFiles
+    COBOLFiles
+    ExcelFiles
+    DBaseFiles
+Scripting
+    Scripting
+    ControlStructures
+The Web
+    FlipDBAndTheWeb
+    HTTPAPI
+    QueriesOverHTTP
+    CreatingDatabases
+    UpdatingDatabases
+    Files
+    HTTPHeaders
+    HTTPErrors
+    ObjectNotation
+    HTTPMethods
+Mortgages
+    WorkingWithMortgages
+    MortgageTimeSeriesTables
+    PrepaymentRates
+    PrepaymentRateReport
+    MortgageDelinquency
+    MortgageRollRates
+    MortgageCashFlows
+Statistics
+    DescriptiveStatistics
+    DataRepresentation
+    Distributions
+    Probability
+    CriticalValues
+    ConfidenceIntervals
+    HypothesisTests
+    AnalysisOfVariance
+    Regression
+    Simulation
+    RunningAndMovingAverages
+Regular Expressions
+    Intro
+    FunctionApplication
+    CharacterClasses
+    Quantifiers
+    Assertions
+    Subpatterns
+    QuickReference
+    FurtherReading
+
