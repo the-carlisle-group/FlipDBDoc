@@ -1,8 +1,12 @@
 # Import Object
 
+## Purpose 
+
 The Import object provides functionality to import a variety of data sources into FlipDB tables.
 
-There is only one method, Execute, which imports the data and creates a new table
+## Description
+
+There is only one method, [Execute](), which imports the data and creates a new table
 or updates an existing table, which it returns as a result.
 The SourceType property specifies the type of the DataSouce, and may be "CSV", "Excel"
 "FixedWidth", "dBase", "CAS", "ADO", "ODBC", or "FlipDB"
@@ -10,7 +14,7 @@ Some properties apply to all SourceTypes, while other
 properties only apply to one or more specific SourceTypes:
 
 |SourceType | Applicable Properties |
-|-|-|
+|:-|:-|
 |All | SourceName,TargetDatabaseName, TargetTableName ReferenceDatabaseName, ReferenceTableName, Transformation PrimaryKey, LookupKey, AddNewColumns, AddNewRows, UpdateExistingRows |
 |CSV | HasHeader, Delimiter, TextQualifier, TreatConsecutiveAsOne, StartRow |
 |Excel | HasHeader |

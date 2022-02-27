@@ -1,18 +1,24 @@
 # ChangeType Method
 
-Applies to:{.prefix}
+## Applies To
 
-→[##.##.Column]{.info}
+[Column]()
+
+## Purpose
 
 This method converts the data type of a column.
 
-The argument is composed of 1 item:
 
-|-|-|
-|1|New data type|String|
+## Syntax
 
-|-|-|
-|1|Instance|Column|
+~~~
+  R=I.ChangeType X
+~~~
+
+X is the new datatype. R is instance I.
+
+
+## Notes
 
 For example:
 

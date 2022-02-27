@@ -1,5 +1,11 @@
 # Query Object
 
+## Purpose
+
+Represents a query.
+
+## Description
+
 The Query object provides full-featured query functionality,
 including grouping and arranging of data, temporary columns or calculations, and
 column renaming. In addition, past states of the database may be queried.
@@ -13,7 +19,8 @@ which defines the starting table for the query:
       Q=T.Query ""
 ~~~
 
-The query is executed by running the →[MethodList.Execute] method, which returns a DataTable object:
+The query is executed by running the [Execute]() method, which returns a 
+DataTable object:
 
 ~~~
       R=Q.Execute 0

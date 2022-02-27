@@ -1,5 +1,11 @@
 # Mail Object
 
+## Purpose
+
+Send Email.
+
+## Description
+
 The Mail object may be used to create and send an email via Microsoft Outlook.
 For example:
 

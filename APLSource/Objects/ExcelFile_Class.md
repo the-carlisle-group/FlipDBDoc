@@ -1,6 +1,10 @@
 # ExcelFile Object
 
+## Purpose
+
 Provides access to Excel files and the Excel object model.
+
+## Description
 
 To open an existing Excel file, access the ExcelFile.New method from the Scripting object:
 

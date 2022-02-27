@@ -1,6 +1,12 @@
 # Text Object
 
-Text objects are used to specify the →[*TextBefore] and
-→[*TextAfter] property of Query.
+## Purpose
+
+Store text (usually markdown).
+
+## Description
+
+Text objects are used to specify the [Header]() and
+[Footer]() property of a Query.
 
 

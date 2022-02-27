@@ -1,20 +1,26 @@
 # absoluteValue
 
-Type:{.prefix}
+## Type
 
-Scalar{.info}
+Scalar
 
-Categories:{.prefix}
+## Categories
 
-Arithmetic{.info}
+Arithmetic
 
-absolute, unsigned{.purpose}
+## Purpose
+
+absolute, unsigned
+
+## Syntax
 
 ~~~
 R=absoluteValue X
 ~~~
 
 X must be numeric. R is the absolute value of X.  R is numeric.
+
+## Examples
 
 ~~~
       absoluteValue -3

@@ -1,18 +1,18 @@
 # addDays
 
-Applies to:{.prefix}
+## Type
 
-Date, DateTime{.info}
+Scalar
 
-Type:{.prefix}
+## Categories
 
-Scalar{.info}
+DateTime
 
-Categories:{.prefix}
+## Purpose
 
-Date/Time{.info}
+Add days to a date.
 
-Add days to a date.{.purpose}
+## Syntax
 
 ~~~
 R=X addDays Y
@@ -21,7 +21,9 @@ R=X addDays Y
 X must be Date or DateTime, Y must be Integer. R has type of X with Y days added to X. If Y is
 negative R is earlier than X. If X is zero (null), R is zero.
 
-See also: →[addMonths], →[addYears]
+## Notes
+
+See also: [addMonths]() [addYears]()
 
 ## Examples
 

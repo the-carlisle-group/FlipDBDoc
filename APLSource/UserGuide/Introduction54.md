@@ -1,8 +1,10 @@
 # Introduction
+
 A FlipDB query may be thought of as a template for a highly structured,
 highly parameterized program.
 
 ## DataSource
+
 A query begins with the specification of a data source: the name of a database
 and table. This is known as the starting table of the query. All unqualified names
 specified in the query are assumed to be columns in this table.

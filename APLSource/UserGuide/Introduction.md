@@ -1,4 +1,4 @@
- # Introduction
+# Introduction
 
 An expression set is an ordered set of expressions.
 It is a DataTable with one column named Expression and

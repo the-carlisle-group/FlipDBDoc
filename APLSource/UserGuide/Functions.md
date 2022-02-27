@@ -1,8 +1,12 @@
 # Functions
 
-Functions operate on →[*.DataColumn|DataColumns] and return DataColumns. Functions may be
+This is a link to a [fqp](/Objects/DataTable/Methods)
+
+This is a link to [dyalog](http://www.dyalog.com) 
+
+Functions operate on [DataColumns](DataColumn) and return DataColumns. Functions may be
 symbolic or a more verbose word, or both. For example, the basic arithmetic functions are
-→[*.plus] (+) →[*.minus] (-) →[*.times] (**) and →[*.divide] (/). Either the word or
+[plus]() (+), [minus]() (-) times]() (*) and [divide]() (/). Either the word or
 symbol may be used when writing expressions. Functions are strictly grouped into four types:
 scalar, aggregate, hybrid, and structural, described in detail below. In addition, functions are
 loosely grouped into categories for convenience in locating them. Categories include  arithmetic,
